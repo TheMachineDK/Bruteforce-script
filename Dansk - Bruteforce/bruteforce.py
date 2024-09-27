@@ -34,6 +34,6 @@ def cracking(username,url):
 with open(password_file, 'r') as passwords:
 	cracking(username,url)
 
-print('[!!] Password Not In List')
+print('[!!] Password er ikke i listen')
 
 
